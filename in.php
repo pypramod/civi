@@ -1,4 +1,4 @@
 <?php
-phpinfo();
+echo "Hello, this file has been modified by another dev."
 
 ?>
